@@ -1,0 +1,10 @@
+[project]
+name = "meraki-mx-rl"
+version = "0.1.0"
+description = "Simple RL: Meraki MX dual-WAN environment + Q-learning agent"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26",
+  "gymnasium>=0.29",
+]
