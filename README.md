@@ -37,7 +37,7 @@ Očakávaný výstup (príklad):
 Episode 100/2500  avg_return=-52.08  epsilon=0.74
 Episode 200/2500  avg_return=-39.09  epsilon=0.55
 Episode 300/2500  avg_return=-36.78  epsilon=0.41
-[výstup je krátený]
+.. výstup je krátený ..
 Episode 2400/2500  avg_return=-20.78  epsilon=0.05
 Episode 2500/2500  avg_return=-19.15  epsilon=0.05
 Greedy eval: mean_return=-8.91 over 20 ep
