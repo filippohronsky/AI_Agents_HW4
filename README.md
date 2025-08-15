@@ -21,7 +21,7 @@ AI_Agents_HW4/
 - **Akcia**: `0 = WAN1`, `1 = WAN2`
 - **Odmena**: + za doručený hlas/bulk, − penalizácia za latenciu/stratu, − malá cena za WAN2
 - **Cieľ**: chrániť hlas (QoS) a zároveň držať throughput + nízke náklady
-- **Na trénovanie sa nepoužil statický dataset**: Využil sa vektor 5 hodnôt [w1_lat_ms, w1_loss, w2_lat_ms, w2_loss, voice_share, index stavu po diskretizácii, akcia [0(WAN1) alebo 1 (WAN2)], okamžitá odmena na základe kvality linky, podielu hlasu a nákladu na prenos-
+- **Na trénovanie sa nepoužil statický dataset**: Využil sa vektor 5 hodnôt [w1_lat_ms, w1_loss, w2_lat_ms, w2_loss, voice_share]
 
 ### Spustenie
 ```bash
